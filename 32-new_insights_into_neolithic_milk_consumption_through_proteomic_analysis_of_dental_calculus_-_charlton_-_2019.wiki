@@ -1,0 +1,31 @@
+%title New insights into Neolithic milk consumption through proteomic analysis of dental calculus - Charlton - 2019
+%date 2020-05-04 12:57
+
+:primary:lactase-persistence:dental-calculus:neolithic:britain:
+
+This study looks at the β-lactoglobulin (BLG) peptides found within British Neolithic 
+populations.
+
+
+
+Similarly, a large-scale study by Mathieson et al.
+(2015) suggests that LP in Europe only became under strong
+selection within the last 4000 years. Most recently, none of the
+67 British Neolithic individuals analysed in Brace et al. (2019)
+exhibited LP.
+
+
+= Notes =
+
+[[33-recent_genetic_studies_show_lp_may_have_emerged_4000_ka|recent genetic studies show LP may have emerged 4000 ka]]
+[[34-presence_of_blg_in_neolithic_populations_might_indicate_milk_processing|presence of BLG in Neolithic populations might indicate milk processing]]
+
+= Related =
+[[36-milk_protein_blg_preserves_in_archaeological_dental_calculus|milk protein BLG preserves in archaeological dental calculus]]
+
+= Backlinks =
+  - [[28-index_lactase_persistence_paper|INDEX lactase persistence paper]]
+
+----
+Charlton, S., Ramsøe, A., Collins, M., Craig, O.E., Fischer, R., Alexander, M., Speller, C.F., 2019. New insights into Neolithic milk consumption through proteomic analysis of dental calculus. Archaeological and Anthropological Sciences. 11, 6183–6196.
+

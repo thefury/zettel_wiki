@@ -1,0 +1,14 @@
+%title lactase breaks lactose into easily digested sugars
+%date 2020-05-03 13:44
+
+= lactase breaks lactose into easily digested sugars =
+
+*Tags*: :lactase:lactase-persistence:lactose:galactose:glucose:
+
+lactase breaks down lactose into galactose and glucose. These smaller sugars
+are easily absorbed into the bloodstream.
+
+== Backlinks ==
+- [[139-genetic_of_lactase_persistence_and_lactose_intolerence_-_swallow_2003|genetics of lactase persistence and lactose intolerance - swallow 2003]]
+
+----

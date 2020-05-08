@@ -1,0 +1,13 @@
+%title lactase persistence convergence due to shared cultural traits
+%date 2020-05-03 14:15
+
+= lactase persistence convergence due to shared cultural traits =
+
+*Tags*: :lactase-persistence:culture:evolution:
+
+== Backlinks ==
+
+- [[108-convergent_adaptation_of_human_lactase_persistencein_africa_and_europe_-_tishkoff_2007|Convergent adaptation of human lactase persistence in Africa and Europe - Tishkoff 2007]]
+
+----
+Tishkoff, S.A., Reed, F.A., Ranciaro, A., Voight, B.F., Babbitt, C.C., Silverman, J.S., Powell, K., Mortensen, H.M., Hirbo, J.B., Osman, M., Ibrahim, M., Omar, S.A., Lema, G., Nyambo, T.B., Ghori, J., Bumpstead, S., Pritchard, J.K., Wray, G.A., Deloukas, P., 2007. Convergent adaptation of human lactase persistence in Africa and Europe. Nature Genetics. 39, 31–40.

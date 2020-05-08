@@ -1,0 +1,53 @@
+= Lactase Persistence =
+
+:anthropology:lactase:theory:
+
+wikipedia: https://en.wikipedia.org/wiki/Lactase_persistence#Benefits_of_being_lactase_persistent_in_adulthood
+
+- [[200304-1143|gene culture co-evolution hypothesis]]
+- CalciumAbsorptionHypothesis
+- AridClimateHypothesis
+- MalariaResistenceHypothesis 
+
+ANT336 Paper: [[LactasePersistencePaper]]
+
+
+= Papers Reviewed =
+== [[200306-1332|On the Evolution of Lactase Persistence in Humans - Review]] ==
+
+
+[[200306-1414|lactase is an adaptation that allows newborns to pull carbohydrates from mothers milk]]
+
+[[200306-1352|Lactase Persistence is a prime example of convergent evolution]]
+[[200306-1335|Lactase Persistence is geographically distributed along ancestral milk consumpion]]
+[[200306-1346|Lactase Persistence and milk consumption are not always related]]
+
+[[200306-1408|Gut bacteria in LNP individuals is different than in LP]]
+[[200306-1409|Dairy processing can reduce the amount of lactose in milk]]
+[[200306-1410|Lactase Persistence is based on Neolithic agricultural revolution]]
+[[200306-1411|The lactase persistence allele is not found in Europn until 5Ka]]
+[[200306-1412|Dairy can be calorically signifiaant with lactase non-persistence]]
+[[200306-1413|The LP allele in Europe is not found before 5Ka]]
+
+
+
+
+
+[[200314-1959|New insights into Neolithic milk consumption through proteomic analysis of dental calculus - Review]]
+
+Definitions of Lactase Persistence
+
+[[200306-1414|lactase is an adaptation that allows newborns to pull carbohydrates from mothers milk]]
+
+Geographic Distribution
+
+
+Temporal Distribution
+
+
+Various Theories
+
+
+Mechanics of Lactase Persistence
+
+

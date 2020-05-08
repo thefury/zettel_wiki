@@ -1,0 +1,7 @@
+%title lactase persistence in europeans is a dominant menelian trait
+%date 2020-05-03 14:20
+
+:lactase:lactase-persistence:genetics:evolution:
+
+= Backlinks =
+[[140-lactase_non-persistence_in_the_mammalian_ancestral_condition|lactase non-persistence in the mammalian ancestral condition]]

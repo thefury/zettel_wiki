@@ -1,0 +1,18 @@
+= Zettelkasten =
+
+[[scratch]]
+
+= Indexes =
+
+[[28-index_lactase_persistence_paper|INDEX lactase persistence paper]]
+[[29-index_lactase_persistence|INDEX lactase persistence]]
+
+
+*note*: To regenerate tags
+
+`:VimwikiRebuildTags`
+`:ZettelGeneratetags` or `:ZettelGenerateLinks` or `:ZettelInbox`
+
+
+
+
