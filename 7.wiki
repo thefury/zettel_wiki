@@ -1,0 +1,8 @@
+%title lactase persistence in europeans is a dominant Mendillian trait
+%date 2020-05-03 14:20
+
+:lactase:lactase-persistence:genetics:evolution:
+
+= References =
+[[8|lactase non-persistence in the mammalian ancestral condition]]
+[[42|genetics of lactase persistence and lactose intolerance - swallow 2003]]

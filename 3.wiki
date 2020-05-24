@@ -1,0 +1,26 @@
+%title Effect of Fermentation on Lactose, Glucose, and Galactose Content in Milk - Alm 1982
+%date 2020-05-03 13:55
+
+
+:literature-note:lactose:lactase:
+
+= Outline =
+
+[[16|dairy fermentation can reduce lactose by half]]
+
+- extra descriptions of what's in here
+- extra descriptions of what's in here
+
+[[17|fermented dairy products can be used by lactose intolerant]]
+
+- extra descriptions of what's in here
+- extra descriptions of what's in here
+
+= Source =
+
+*cite*:
+Alm, L., 1982. Effect of Fermentation on Lactose, Glucose, and Galactose Content in Milk and Suitability of Fermented Milk Products for Lactose Intolerant Individuals. Journal of Dairy Science. 65, 346–352.
+ 
+= Backlinks =
+  - [[142-dairy_fermentation_can_reduce_lactose_by_half|dairy fermentation can reduce lactose by half]]
+  - [[143-fermented_dairy_products_can_be_used_by_lactose_intolerant|fermented dairy products can be used by lactose intolerant]]

@@ -1,0 +1,21 @@
+%title Evolution of lactase persistence: An example of human niche construction - Gerbault 2011
+%date 2020-05-04 21:39
+
+:primary:lactase-persistence:evolution:selection:neolithic:
+
+
+[[26|farming had spread over Europe by 6 ka]]
+[[44-the_neolithic_revolution_included_domestication_of_animal_and_plant_species|the neolithic revolution included domestication of animal and plant species]]
+[[45-the_spread_of_neolithic_farming_can_be_established_by_faunal_remains|the spread of neolithic farming can be established by faunal remains]]
+[[43|the oldest evidence for domestication of sheep and goats is 11 ka]]
+[[12|the oldest evidence for domestication of pig and cattle is 10.5 ka]]
+[[11|milk processing has been identified in Turkey as early as 8.5 ka]]
+
+[[10|milk and milk products represent a substantial number of calories]]
+[[4|milk can be used as a relatively clean supply of drinking liquid]]
+
+
+
+----
+Gerbault, P., Liebert, A., Itan, Y., Powell, A., Currat, M., Burger, J., Swallow, D.M., Thomas, M.G., 2011. Evolution of lactase persistence: An example of human niche construction. Philosophical Transactions of the Royal Society B: Biological Sciences. 366, 863–877.
+

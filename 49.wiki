@@ -1,0 +1,146 @@
+%title Quantitative Methods and Modeling for Biocultural Anthropology. BIO A 526 (Spring 2012)
+%date 2020-05-22
+
+:syllabus:index:modelling:anthropology:
+
+[[47|masters course requirements for university of toronto]]
+
+This is a course syllabus scooped from the University of Washington
+
+Darryl J. Holman
+418 Denny Hall
+206-543-7586
+djholman@u.washington.edu.
+
+Week 1 | Week 2 | Week 3 | Week 4 | Week 5 | Week 6 | Week 7 | Week 8 | Week 9 | Week 10 | Finals | Bibliography | Links
+Scope
+
+This course will introduce you to the concepts and methods of taking complex real-world systems and creating quantitative models of the system. By the end of the quarter, you will have gained experience in modeling the behavior of a system, developing testable hypotheses, and using observations (taken from fieldwork or data sets) to statistically evaluate hypotheses arising from the model. We will survey some of the concepts, tools, and methods for developing models based on underlying biocultural processes, as well as the methods of testing models from observations collected in anthropological field studies. We will focus on methods for longitudinal research of fertility, mortality, disease dynamics, population genetics, and other biocultural processes, but the concepts and methods are applicable to many other types of anthropological and biocultural research covering the life span.
+
+After a brief introduction to modeling, we will focus on three modeling techniques. (1) We will briefly examine dynamic simulation models. (2) We will spend much time on developing likelihood models. These are models that can be developed from theoretical foundations and can be fit to real data. (3) We will examine simulation models and techniques.
+Classes
+
+10:30-12:20 p.m. Tuesday and Thursday in 402 Denny
+
+Office hours
+
+After class. Other times can be arranged. My email address is djholman@u.washington.edu, or click here.
+Textbooks and readings
+
+There are no required textbooks for this course. I will, however, recommend some of the more important books for this course. Most readings will be provided on-line at https://csde.washington.edu/~djholman/bioa526/.
+
+Grading
+
+Your course grade will be based on six problem sets (8% each) and a final project (52%).
+Problem sets
+
+The six problem sets will consist of several modeling exercises. Frequently, the problems will require the use of computer software. I recommend that you get an account on the CSDE Windows network, as all the required software will be available on those systems. Data sets and other helpful material will be available on the web site. You are free to use books, readings, notes, and web pages to help you work on the problems. You can work in groups, but I recommend you tackle the problems yourselves. Grades for late problem sets will depreciate by 10% per day, including any fraction of a day late. Problem sets are due by the beginning of the class period, one calendar week after being handed out.
+
+There are two software programs we will be using. The first is STELLA, a dynamic modeling and simulation program. A limited version of STELLA is available with one of the optional textbooks or can be downloaded from here. If you think STELLA will be useful for your research, a full-feature versiotical programming exercises, mle will be easiest program to use, but other languages (Gauss, R, Matlab) are suitable.
+Projects
+52% of your course grade will be based on a project. This project can take one of several forms: (1) a new research proposal in preliminary form incorporating some of modeling ideas covered in the course; (2) a completed existing research or funding proposal (a proposal started in BIO A 525, for example) that is revised to include one or more of the methods covered in this course; (3) a new manuscript in which you have applied methods covered in this course; (4) a term paper in which a model is developed and explored.
+
+Topics and schedule
+Week 1 | Week 2 | Week 3 | Week 4 | Week 5 | Week 6 | Week 7 | Week 8 | Week 9 | Week 10 | Bibli Frankenberg (1992).
+Apr 17 Probability models, Likelihood models I (PS 2 due) (handout 3) Overheads
+Apr 19 Likelihood models II (PS 3 assigned)
+
+Week 5
+Readings: Raftery (1995), Holman (handout 2). Overheads week 5
+Optional Readings: Burnham and Anderson (1998).
+Apr 24 Inference and model selection I
+Apr 26 Inference and model selection II, Messy data I (PS 3 due)
+
+Week 6
+Readings: Holman (handout 3), Holman and Yamaguchi (in press), Wood et al. (1993).
+May 1 Messy data II (PS 4 assigned), Heterogeneity I - Measured covariates Overheads week 6
+May 3 Heterogeneity II - Hazard covariate models
+
+Week 7
+Readings:Holman (2003), Holman et al. (in press), Holman & Grimes (2003), Weinberg & Gladen (1986).
+Optional Readings:Holman and Jones (1998). Overheads week 7
+May 8 Heterogeneity III - unobserved characteristics (PS 4 due)
+May 10 Heterogeneity IV - Mixture models, Sterility models (PS 5 assigned)
+
+Week 8
+Readings:Coale and McNeil (1973), Holman et al. (n.d.), Sarton-Miller et al. (2004).
+Overheads week 8 and more overheads week 8
+May 15 Convolution models, Clustered observations (PS 5 due)
+May 17 Heterogeneity VI - time varying covariates
+
+Week 9
+Readings:Efron & Tibshirani (1991), Holman (handout 4). Overheads week 9
+May 22 Bootstrapped estimates and other computer intensive methods
+May 24 Simulation models I (PS 6 assigned)
+
+Week 10
+Overheads week 10
+May 29 Simulation models II
+May 31 Simulation models III
+
+Finals Week
+Jun 8 Projects due by 2:30 pm
+
+Bibliography
+Math | Simulation | Probability | Readings | Software | Handouts | Links
+
+Math books
+Bender EA (1978) An Introduction to Mathematical Modeling. New York: Wiley (Reprinted by Dover in 2000).
+Cullen MR (1983) Mathematics for the Biosciences. New York: PWS-Kent Publishing (Reprinted by Ceramic Book and Literature Service). [Math course for biologists]
+Simon W (1972) Mathematical Techniques for Biology and Medicine. NY: Academic Press (reprinted by Dover in 1986). [Mathematics review for biologists-somewhat advanced]
+Thompson Sp and Gardner M (1998) Calculus Made Easy. New York: St. Martin's Press. [Recommended: This is a fantastically easy way to learn the most useful stuff in calculus].
+
+Books on simulation
+Bratley P, Fox BL, Schrage LE (1987) A Guide to Simulation. New York: Springer-Verlag.
+Ferber J (1999) Multi-agent Systems: An Introduction to Distributed Artificial Intelligence. London: Addison-Wesley.
+Hannon B, Ruth M (1997) Modeling Dynamic Biological Systems. New York: Springer-Verlag. [Dynamic models only]
+Huckfeldt RR, Kohfeld CW, Likens TW (1982) Dynamic Modeling: An Introduction. Thousand Oaks, California: SAGE Publications, Inc.
+Mooney CZ (1997) Monte Carlo Simulation. Thousand Oaks, California: SAGE Publications, Inc.
+
+Books on probability, likelihood, stochastic modeling, model selection
+Burnham KP, Anderson DR (1998) Model Selection and Inference: A Practical Information-Theoretic Approach. New York: Springer-Verlag.
+Cullen AC, Frey HC (1999) Probabilistic Techniques in Exposure Assessment: A Handbook for Dealing with Variability and Uncertainty in Models and Inputs. New York: Plenum Press.
+Edwards AWF (1992) Likelihood. London: Johns Hopkins University Press (1972 edition by Cambridge University Press). [Strongly recommended].
+Eliason SR (1993) Maximum Likelihood Estimation: Logic and Practice. Thousand Oaks, California: SAGE Publications, Inc.
+Gentle JE (2002) Elements of Computational Statistics. New York: Springer-Verlag. [Advanced material].
+Gilchrist WG (2000) Statistical Modelling with Quantile Functions. Boca Raton: Chapman & Hall/CRC. [interesting alternative modeling ideas].
+Guttorp P (1995) Stochastic Modeling of Scientific Data. London: Chapman & Hall. [Advanced modeling]
+Hilborn R, Mangel M (1997) The Ecological Detective: Confronting Models with Data. Princeton, New Jersey:Princeton University Press. [Strongly recommended]
+Mooney CZ, Duval RD (1993) Bootstrapping: A Nonparametric Approach to Statistical Inference. Thousand Oaks, California: SAGE Publications, Inc.
+Morgan BJT (2000) Applied Stochastic Modelling. London: Arnold. (Recommended).
+Ross GJS (1990) Nonlinear Estimation. New York: Springer-Verlag.
+Royall R (1997) Statistical Evidence: A likelihood paradigm. Boca Raton: Chapman & Hall/CRC.
+
+Readings (Online readings here [requires uwnetid])
+Coale AJ and McNeil DR (1972). The distribution of age at first marriage in a female cohort. J Am Stat Assoc 67:743-9.
+Efron B, Tibshirani R (1991) Statistical data analysis in the computer age. Science 253:390-395.
+Gage TB (1989) Bio-mathematical approaches to the study of human variation in mortality. Yearbook of Physical Anthropology 32:185-214.
+Holman DJ (2003) Unobserved heterogeneity. In: Lewis-Beck MS, Bryman A, Liao TF, (eds.) Encyclopedia of Social Science Research Methods. Thousand Oaks, CA: Sage Publications.
+Holman DJ, Grimes MA, Achterberg JT, Brindle E, O'Connor KA. (in press) The distribution of postpartum amenorrhea in rural Bangladeshi women. The American Journal of Physical Anthropology. (Also: Working Paper 04-08, center for Studies in Demography & Ecology, University of Washington).
+Holman DJ, Yamaguchi K (in press) Longitudinal analysis of deciduous tooth emergence: IV. Covariate effects in Japanese children. American Journal of Physical Anthropology.
+Konigsberg LW, and Frankenberg SR (1992) Estimation of age structure in anthropological demography. American Journal of Physical Anthropology 89: 235 256.
+Holman DJ, Grimes MA. (2003) Patterns for the initiation of breastfeeding in humans. The American Journal of Human Biology 15:765-780.
+Holman DJ, Jones RE (1998) Longitudinal analysis of deciduous tooth emergence II: Parametric survival analysis in Bangladeshi, Guatemalan, Japanese and Javanese children. American Journal of Physical Anthropology 105(2):209-30.
+Holman DJ, Brunson E, Newell LL, Jones RE, Streissguth A, (n.d.) Measuring developmental noise from bilateral traits. Manuscript.
+Levins R (1966) The stra]
+R. [free SPlus-like language]
+Octave. [free Matlab-like language]
+Matlab. [commercial]
+Gauss. [commercial]
+Stella. [commercial, for dynamic models]
+Madonna. [commercial, for dynamic models]
+Simulink. [commercial, for dynamic models]
+Mathematica. [commercial, symbolic programming language]
+Maple. [commercial, symbolic programming language]
+
+Handouts
+handout 1. Basic probability
+handout 2. Distributions
+handout 3. Likelihood
+Other stuff
+Syllabus
+Problem set 1
+Problem set 2
+Problem set 3
+Some other links
+

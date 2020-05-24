@@ -1,0 +1,27 @@
+
+
+
+
+
+testing a terraform plan
+
+the simplest is validate. very simle indeed.
+
+conftest
+
+
+possible tools
+
+terratest
+serverspec
+
+
+Question - how can terraform (and packer) become more application-like?
+
+can I use docker to make my deployments faster and safer?
+
+
+
+
+[[9|AIDE - Advanced Intrusion Detection Environment]]
+

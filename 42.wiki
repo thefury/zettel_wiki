@@ -1,0 +1,20 @@
+%title genetics of lactase persistence and lactose intolerance - swallow 2003
+%date 2020-05-03 12:41
+
+*Tags*: :primary:lactase:lactase-persistence:
+
+    
+== Facts ==
+
+- [[8|lactase non-persistence in the mammalian ancestral condition]]
+- [[2|the lactase enzyme breaks lactose into easily digested sugars]]
+- [[7|lactase persistence in europeans is a dominant menelian trait]]
+- [[15|The main carbohydrate in milk is the disaccharide lactose]]
+
+Lactase persistence is inherited as a dominant mendelian trait in
+Europeans
+
+Backlink: [[LactasePersistencePaper|LactasePersistencePaper]]
+----
+
+Swallow, D.M., 2003. Genetics of Lactase Persistence and Lactose Intolerance. Annual Review of Genetics. 37, 197–219.

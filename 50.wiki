@@ -1,0 +1,48 @@
+%title Learning Complex Skills
+%date 2020-05-20 11:26
+
+:learning:
+
+This can be an important part of learning complex skills:
+
+1. find coverage - least important stage overal, but it gives you a map
+2. practice with a project
+3. highlighting the gaps
+
+== Initial Coverage ==
+
+Finding initial coverage is an important first step in mapping the extent of the knowledge you
+are attampting to gain. Although this step is critical, the purpose is not to teach you about
+the topic. Rather, the reason for this is to show you what you need to know and to tie it to what
+you already know.
+
+If reading, this is where you skim quickly. If watching videos, listen at 1.5 or 2.0x speed. The goal
+is not retention!
+
+== Practice with a project ==
+
+Small projects can quickly set knowledge in the brain, especially for technical projects. For 
+instance, I commonly use genetic algorithms to teach me the basics of a new language or programming
+paradigm.
+
+An short essay on the topic would work similarly for non-technical topics.
+
+== Finding the gaps ==
+
+While learning, it is important to find the gaps in your knowledge. While essay writing will show you this,
+an interesting technique is the Feynman technique in which you pretend to give a lecture to someone
+about the topic.
+
+
+
+
+= References =
+
+- external: [[https://www.calnewport.com/blog/2012/10/26/mastering-linear-algebra-in-10-days-astounding-experiments-in-ultra-learning/|experiments in ultra learning]]
+- [[52|Fyenman technique for learning]]
+
+
+
+
+
+

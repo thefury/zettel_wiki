@@ -1,5 +1,0 @@
-%title milk can be used as a relatively clean supply of drinking liquid
-%date 2020-05-04 22:08i
-
-= Backlinks =
-  - [[42-evolution_of_lactase_persistence:_an_example_of_human_niche_construction_-_gerbault_2011|Evolution of lactase persistence: An example of human niche construction - Gerbault 2011]]

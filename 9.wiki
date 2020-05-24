@@ -1,0 +1,86 @@
+%title AIDE - Advance Intrusion Detection Environment
+%date 2020-05-24 11:40
+
+:incomplete:security:outline:aide:reading-notes:
+
+= Summary =
+
+[[|Keeping an Eye On Your Filesystem with AIDE]]
+
+
+
+
+
+
+
+
+
+
+== Clusters ==
+
+what is AIDE
+how does AIDE work
+how do you configure AIDE
+how do you install AIDE
+why would you want AIDE
+how do you check files with AIDE
+how can you further secure AIDE
+
+== Sub Articles ==
+Running AIDE with IaC
+Running AIDE on AWS
+A good workflow for AIDE
+A good ansible setup for AIDE
+
+= Find Citations =
+The source code
+The place to find it
+Where to read more on the intarweebs
+
+
+= first = 
+https://www.techrepublic.com/article/how-to-install-advanced-intrusion-detection-environment-on-centos/
+
+
+it is a file system integrity check
+it creates a database that can be used to test the files and directories
+in centos based systems: yum install aide
+it has a config file - what can be done with this?
+thje main config file is in /etc/aide.conf
+what's in the database?
+can a wily hacker modify the database? How do you protect against that?
+you need to generate the database - it is done as follows: aide --init
+it creates a database in /var/lib/aide/aide.bb.new.gz or somesuch
+you need to move it to /var/lib/aide/aide.bb.gz
+you can now chec with aide --check
+there is no regular check. this can be done with cron
+simple dump check:
+#!/bin/sh
+​#aide checkDATE=`date +%Y-%m-%d`
+​aide --check > /tmp/aidecheck_$DATE.txt
+
+question. does my base AMI handle this properly? Does it do checks? Where does it dump them?
+question. how can I make sure they send to an S3 bucket
+question how and why wold we hook this up to an alerting mechanism
+
+= second =
+https://www.tecmint.com/check-integrity-of-file-and-directory-using-aide-in-linux/
+
+aide.conf contains the rules used by Aide to define its checks
+rules can be combined into groupings 
+the rules can be used to watch for specific files and directories
+after defining the rules you init a database and then rename it
+you should move the database to a secure location
+you then check files against the database. you should import the file for this check.
+you can use update to update the database after checking the changes
+but, since infrastructure as code, just replace the damn machine
+
+= from me =
+how could you use this is a combined system that alerts and logs
+how can you increase security in an infrastructure as code environment
+
+
+
+
+
+

@@ -1,0 +1,15 @@
+%title selection for LP is associated with the introduction of cattle
+%date 2020-05-06 16:04
+
+:lactase-persistence:dairying:neolithic:incomplete:
+
+= Summary =
+
+The selection for the lactase persistence allele in Neolithic Europe started with the introduction
+of cattle approximately 8 ka.
+
+= References =
+
+= Backlinks =
+
+[[46|Absence of the lactase-persistence-associated allele in early Neolithic Europeans - Burger 2007]]

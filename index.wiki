@@ -1,18 +1,16 @@
 = Zettelkasten =
 
-[[scratch]]
-
-= Indexes =
-
-[[28-index_lactase_persistence_paper|INDEX lactase persistence paper]]
-[[29-index_lactase_persistence|INDEX lactase persistence]]
+[[22|scratch]]
 
 
-*note*: To regenerate tags
+= Zettels in Progress =
 
-`:VimwikiRebuildTags`
-`:ZettelGeneratetags` or `:ZettelGenerateLinks` or `:ZettelInbox`
+[[54|zettelkasten]]
+[[45|essay writing guide - Jordan Peterson]]
+[[49|course - modelling in biocultural anthropology]]
+[[9|AIDE - Advance Intrusion Detection Environment]]
 
 
+= Current Writing Projects =
 
-
+= Index Entry Points =

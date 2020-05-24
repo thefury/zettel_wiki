@@ -1,0 +1,29 @@
+%title differences between fleeting and permanent notes
+%date 2020-05-20 11:54
+
+:incomplete:zettel:
+
+= Summary =
+
+There are two major types of notes that one takes while preparing to store kowledge: fleeting
+and permanent. 
+
+fleeting notes are notes taken while reading, watching, etc. They are on napkins, in phones, etc. 
+They are often in point form or are scribbled. Their purpose is to help you write permanent notes.
+
+permanent notes are well-formed and kept in the zettelkasten. They are known as a _zettel_. 
+
+- these have to be in your own words
+- they should have a reference or a cite if needed
+- they should be complete, yet atomic thoughts
+
+
+
+= References =
+
+[[54|zettelkasten]]
+
+= External References =
+
+- https://tinylittlebusinesses.com/zettelkasten-method/
+

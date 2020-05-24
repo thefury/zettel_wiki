@@ -1,0 +1,21 @@
+%title analysis must precede synthesis
+%date 2020-05-22 10:22
+
+:incomplete:descartes:
+
+= Summary =
+
+Galileo Galilee and Rene Descartes both thought it was necessary to take a subject apart 
+before it could truly be synthesized. This may be a little reductionist, but it is a good
+place to start.
+
+= References =
+
+[[56|first principals]]
+
+*note*: try to have references from 3 catagories:
+
+- more specific
+- more general
+- related topics - can be lateral
+ 

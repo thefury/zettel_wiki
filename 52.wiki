@@ -1,0 +1,30 @@
+%title Fyenman technique for learning
+%date 2020-05-21 11:40
+
+:learning:
+
+= Summary =
+
+The Feynman technique is a method for discovering knowledge gaps in a topic of interest.
+
+This method consists of the following steps:
+
+1. Get a peice of paper
+2. Write the idea or process at the top of the paper
+3. Explain the idea or process as if you were teaching it.
+
+While you're writing your paper, you will find that you have adequet knowledge of a good
+deal of the topic. There will be no problems with this part of the lecture. When you have
+problems, however, this will highlight where you have knowledge gaps.
+
+Take these gaps and learn what you can. Then repeat the process until you are confident
+that you can describe this process to someone else.
+
+You can also use this technique on writing about what you know nothing about.
+Find a good reference and use the above technique. Copy verbatim the author's explanation,
+however add your own insights and elaborations.
+
+= References =
+
+- [[50|Learning Complex Skills]]
+ 

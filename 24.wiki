@@ -1,0 +1,13 @@
+%title presence of BLG in Neolithic populations might indicate milk processing
+%date 2020-05-04 13:04
+
+:lactase-pesistence:dairying:neolithic:incomplete:
+
+= Related =
+[[21|milk protein BLG preserves in archaeological dental calculus]]
+
+= Backlinks =
+[[27|New insights into Neolithic milk consumption through proteomic analysis of dental calculus - Charlton - 2019]]
+   
+---
+Charlton, S., Ramsøe, A., Collins, M., Craig, O.E., Fischer, R., Alexander, M., Speller, C.F., 2019. New insights into Neolithic milk consumption through proteomic analysis of dental calculus. Archaeological and Anthropological Sciences. 11, 6183–6196.
