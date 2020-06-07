@@ -1,0 +1,22 @@
+%title research log
+%date 2020-06-04 17:03
+
+:research:index:
+
+This is a log of research across a number of fields that I have interest in. The
+goal of this project is to:
+
+  1. add notes to my knowledge base;
+  2. get practice in researching and scholarship; and
+  3. help generate future research questions.
+
+Using `,zlog` on a new page will generate the correct template.
+
+= Anthropology =
+
+= DevOps =
+
+= Software Use in Anthropology =
+
+= Backlinks =
+  - [[index|index]]

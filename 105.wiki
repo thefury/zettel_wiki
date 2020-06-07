@@ -1,0 +1,15 @@
+%title unbundle craigslist for product ideas
+%date 2020-06-05 12:05
+
+:ideation:
+
+The idea is that CL is able to ligitimately compete in a huge number of fields
+without adding features are fancy graphics. By unbundling, you can carve out niches
+if you are careful.
+
+Examples:
+
+- ELance, RunMyErrand, StubHub, AirBNB
+
+*source*:
+https://thegongshow.tumblr.com/post/345941486/the-spawn-of-craigslist-like-most-vcs-that-focus

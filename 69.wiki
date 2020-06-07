@@ -1,0 +1,22 @@
+%title The Practice of Cloud System Administration: DevOps and SRE Practices for Web Services, Volume 2
+%date 2020-05-27 10:23
+
+:literature-note:sre:devops:
+
+= Key Ideas =
+
+== Chap 1: Designing Distributed Systems ==
+
+[[71|load balancing: least loaded algorithm]]
+[[72|load balancing: round robin]]
+[[70|CAP theorem - consistency, availability, partition resistence]]
+
+= Source =
+
+The Practice of Cloud System Administration: DevOps and SRE Practices for Web Services, Volume 2
+Thomas A. Limoncelli, Strata R. Chalup, and Christina J. Hogan
+
+Year?
+
+
+

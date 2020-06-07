@@ -1,0 +1,25 @@
+%title additive vs subtractive process improvement
+%date 2020-05-30 13:03
+
+:lean:process-improvement:
+
+There are two ways to improve the process in pretty much everything: additive and
+subtractive. Additive is the addition of more great things. Subtractive is all about
+removing the bad things. Most people tend to focus on the additive side of process
+improvement. Subtractive, however, can easily be as powerful. And also ripe for
+exploitation as it is often overlooked.
+
+It is all about reducing the chance od a bad performance vs. increasing the chance
+of a good performance. It can be easier to eliminate errors than it can be to master 
+something. 
+
+= Examples =
+
+Baseball: Hit More Runs (additive) vs Get less outs (subtractive)
+Investing: Earn more money (additive) vs Reduce lass (subtractive)
+Exercise: Do more intense exercises (additive) vs Miss fewer workouts (subtractive)
+
+= Sources =
+  - https://jamesclear.com/subtraction
+= Backlinks =
+  - [[87|deliberate practice for guitar]]

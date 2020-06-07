@@ -1,0 +1,17 @@
+%title writing with motifs
+%date 2020-06-04 13:46
+
+:songwriting:melody:music:
+
+A motif is a short musical phrase. It is often a recurring statement that has 
+particular meaning in a peice of music. The motif can be modified and elaborated
+on in a number of methods: reversing, transposing, flipping, lengthening, or
+shortening.
+
+Good examples of this:
+
+- Beethoven's 9th
+- Night of the Living Surf - the 427s
+- Penetration - The Pyramids
+
+source: https://en.wikipedia.org/wiki/Motif_(music)

@@ -1,12 +1,19 @@
-%title AIDE - Advance Intrusion Detection Environment
+%title AIDE - Advanced Intrusion Detection Environment
 %date 2020-05-24 11:40
 
-:incomplete:security:outline:aide:reading-notes:
+:security:aide:FIM:
 
 = Summary =
 
-[[|Keeping an Eye On Your Filesystem with AIDE]]
+Advanced Intrusion Detection Environment (AIDE) is a filesystem integrity monitor (FIM) that
+works by comparing the state of the current filesystem against a previous snapshot.
 
+
+= References =
+
+[[62|Keeping an Eye On Your Filesystem with AIDE]]
+[[63|filesystem integrity monitoring]]
+[[64|host-based intrusion detection system - HIDS]]
 
 
 
@@ -18,7 +25,6 @@
 
 == Clusters ==
 
-what is AIDE
 how does AIDE work
 how do you configure AIDE
 how do you install AIDE
@@ -42,7 +48,6 @@ Where to read more on the intarweebs
 https://www.techrepublic.com/article/how-to-install-advanced-intrusion-detection-environment-on-centos/
 
 
-it is a file system integrity check
 it creates a database that can be used to test the files and directories
 in centos based systems: yum install aide
 it has a config file - what can be done with this?

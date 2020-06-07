@@ -1,0 +1,24 @@
+%title user stories
+%date 2020-05-30 11:48
+
+:agile:
+
+A usersystem  story is a short description of a feature, based on perspective of a person
+using the system. User stories often follow the canonical template:
+
+As a <type of user>, I want to <do a thing>, so that <some reason>.
+
+The classic user story should fit onto an index card. This reduces the need for big design
+up front and limits the scope of the feature. The move the focus of the card from design
+to discussion. The addition of the <do a thing> and <some reason> allow for discussion of 
+the solution as well. See [[78|abstraction laddering]] for more info.
+
+Example:
+
+As a mailing list administrator, 
+I can create a grouping of recipients,
+So that I can send messages to onely the people who want it.
+
+
+= Backlinks =
+  - [[78|abstraction laddering]]

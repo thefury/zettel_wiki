@@ -1,0 +1,18 @@
+%title projects vs areas of responsibility
+%date 2020-06-02 11:44
+
+quoted:
+
+Projects always fall into Areas. A few examples:
+
+    Running a marathon is a project, whereas Health is an area
+    Publishing a book is a project, whereas Writing is an area
+    Saving 3 months’ worth of expenses is a project, whereas Finances is an area
+    A vacation to Thailand is a project, whereas Travel is an area
+    Planning an anniversary dinner is a project, whereas Spouse is an area
+
+
+source: https://fortelabs.co/blog/para/
+
+= Backlinks =
+  - [[92|PARA - projects, areas of responsipilities, references, archives]]

@@ -1,0 +1,13 @@
+%title current projects
+%date 2020-06-02 13:03
+
+:index:
+
+grafana should be provisioned correctly
+grafana connections should be easy and such
+provide documentation for livechat account creation
+setting up nomad on AW
+[[96|build a skin on frame canoe]]
+write a good garage album
+write a good surf album
+[[97|finish song - watching you]]

@@ -1,0 +1,24 @@
+%title inversion mental model
+%date 2020-05-30 12:30
+
+:mental-model:
+
+Inversion is a questioning technique that can allow you to see a problem from
+multiple angles. Instead of thinking of good solutions, think of bad outcomes 
+and think "How can we aviod these outcomes"? This technique can also help with
+avoiding worst-case scenarios.
+
+
+Good Questions:
+
+- What if the opposite were true?
+- What is the worst that can happen here? How do I avoid that?
+- Is the inverted state actually preferable in some way?
+
+related: [[84|premeditation of evils]] technique of the stoics
+source: https://jamesclear.com/inversion
+
+
+= Backlinks =
+  - [[82|mental model]]
+  - [[84|premeditation of evils]]

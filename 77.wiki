@@ -1,0 +1,19 @@
+%title restarting heroku dynos manually
+%date 2020-05-29 13:39
+
+:heroku:devops:
+
+While [[74|Heroku restarts all dynos every 24 hours]], it is sometimes necessary to 
+restart the dynos manually.
+
+From the heroku dashboard:
+
+From the heroku CLI:
+
+- Connect and log into https://dashboard.heroku.com
+- Select the application to restart
+- From the `More` menu, select `Restart All Dynos`
+
+= Backlinks =
+  - [[74|Heroku restarts all dynos every 24 hours]]
+  - [[76|restarting heroku dynos on schedule]]

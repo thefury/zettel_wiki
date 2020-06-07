@@ -1,0 +1,24 @@
+%title filesystem integrity monitoring
+%date 2020-05-24 20:22
+
+:filesystem:security:repair:FIM:
+
+= Summary =
+
+A filesytem integrity monitor (FIM) is a security tool that scans for changes in important files. 
+
+In general, these tool work by taking a snapshot of the filesystem. Periodically, the monitor will
+check the current state and, if there are changes, report them to an administrator. From these 
+reports, alerts can be sent if the change is deemed important enough.
+
+For certain industries, for example finance or health, FIM is either required or strongly suggested. 
+
+Examples of enterprise products include [[https://www.solarwinds.com/server-application-monitor?CMP=ORG-BLG-DNS|SolarWinds Server Monitor]] and [[https://www.tripwire.com/solutions/file-integrity-and-change-monitoring/|Tripwire]]. A simpler solution appropriate for smaller servers would be [[9|AIDE - Advance Intrusion Detection Environment]]. 
+
+FIL is also known as Change Monitoring.
+
+= Links =
+
+[[9|AIDE - Advanced Intrusion Detection Environment]]
+[[64|host-based intrusion detection system - HIDS]]
+DNSSTUFF: [[https://www.dnsstuff.com/file-integrity-monitoring-software|file system integrity monitoring software]]
