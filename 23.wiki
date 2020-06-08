@@ -1,8 +1,0 @@
-%title lactase persistence was rare in early European farmers
-%date 2020-05-04 19:40
-
-:lactase-psersistence:neolithic:farming:dairying:incomplete:
-
-= Backlinks =
-
-[[46|Absence of the lactase-persistence-associated allele in early Neolithic Europeans - Burger 2007]]
